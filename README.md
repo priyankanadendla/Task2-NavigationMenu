@@ -4,13 +4,13 @@
 This project is a multi-page website with a navigation menu that connects Home, About, and Contact pages.
 
 
-Features
+## Features
 
 Multi-page structure
 Navigation bar for page switching
 Clean layout using HTML & CSS
 
-Output
+## Output
 
 Users can navigate between pages using the menu, and each page displays relevant content.
 
